@@ -16,5 +16,5 @@ int main()
 
 	}
 	cout << factorial;
-
+	//Her seçim bir vazgeçimdir.
 }
